@@ -1,0 +1,15 @@
+:root {
+  --color-primary: #2563eb;
+  --color-primary-contrast: #ffffff;
+  --color-primary-hover: #1d4ed8;
+  --color-bg: #f1f5f9;
+  --color-surface: #ffffff;
+  --color-text: #1e293b;
+  --color-muted: #64748b;
+  --color-success-bg: #eff6ff;
+  --color-success-border: #3b82f6;
+  --color-error: #ef4444;
+  --font-heading: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  --font-body: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  --radius: 0.75rem;
+}
